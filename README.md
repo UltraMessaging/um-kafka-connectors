@@ -1,2 +1,2 @@
-# um-kafka-connectors
-Repository for UM source &amp; sink development
+# UM-Kafka-Connectors
+This is the Ultra Messaging Kafka connector repository
